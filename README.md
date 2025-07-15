@@ -20,6 +20,7 @@ git clone https://github.com/oilinkov/copy-css-selector
 
 **Oleg Ilinkov**  
 [GitHub](https://github.com/oilinkov)
+[Linkedin](https://www.linkedin.com/in/oleg-ilinkov)
 
 ## 📄 License
 
